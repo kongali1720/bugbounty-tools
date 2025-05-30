@@ -1,15 +1,68 @@
 # 🛡️ bugbounty-tools by Kongali1720
 
-Koleksi tools dan panduan Bug Bounty untuk pemula. Cocok digunakan di Termux, Kali Linux, atau Parrot OS.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Browser Support](https://img.shields.io/badge/Browser-Chrome%20%7C%20Firefox%20%7C%20Edge-blue.svg)](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 
-🌐 [Kunjungi halaman GitHub Page](https://kongali1720.github.io/bugbounty-tools)
+---
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVwb3JiODJsM3B5cmVrYW1iOWJwaHFkaTR0eDJuazhscjcybGZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DH9skMDA3Vf0s/giphy.gif" width="200"/>
+</p>
+
+---
+Koleksi tools dan panduan Bug Bounty untuk pemula. Cocok digunakan di Termux, Kali Linux, atau Parrot OS 🌐
 
 ## 📂 Konten:
+
 - 🔍 Subdomain Finder
+ 
 - 💉 SQL Injection Testing
+  
 - 🧪 XSS Auto Checker
 
 Semua script legal dan untuk tujuan edukasi 🔐
+
+---
+
+🔍 Tentang Project
+
+bugbounty-tools adalah koleksi alat, panduan, dan skrip interaktif untuk membantu para bug hunter, pentester, dan penggemar cybersecurity dalam proses pentesting dan pelaporan bug.
+
+Dibuat oleh Kongali1720 sebagai kontribusi ke komunitas keamanan siber Indonesia dan dunia. 🇮🇩🌍
+
+📦 Tools yang Disertakan
+
+  -  Tool	Deskripsi
+    
+  -  Nmap	Scanner jaringan & port discovery
+    
+  -  Burp Suite	Intercept & analisis traffic web
+    
+  -  Nikto	Web server vulnerability scanner
+    
+  -  Python Info Scanner	Dapatkan IP & reverse DNS domain
+
+---
+
+🚀 Cara Penggunaan
+📁 Online
+Kunjungi halaman GitHub Pages:
+  -  👉 https://github.com/kongali1720/bugbounty-tools
+
+🐍 Offline (Python)
+
+  $  git clone https://github.com/kongali1720/bugbounty-tool
+  
+  $  cd bugbounty-tools/tools
+  
+  $  python3 info-scanner.py
+
+---
+
+📂 📬 Kontribusi
+
+Punya ide tool baru atau panduan tambahan?
+Silakan fork repo ini dan buat pull request. Kamu juga bisa hubungi langsung lewat Issues.
 
 ---
 
